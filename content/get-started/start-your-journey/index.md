@@ -1,4 +1,4 @@
----
+---<a href='https://aipure.ai/' target='_blank'>AIPURE AI</a>
 title: Start your journey
 intro: 'Learn the basics of {% data variables.product.product_name %}.'
 versions:
